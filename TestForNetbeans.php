@@ -10,7 +10,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "This shit is bananas!"
+        echo "This shit is ridiculous!"
         ?>
     </body>
 </html>
